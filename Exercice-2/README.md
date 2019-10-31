@@ -1,0 +1,3 @@
+# Exercice 2
+
+Create a progressbar. It must have 2 parts, one will be colored and the other without color to see the progress of the progressbar. To do this we will use the class "drawBar". It contains 2 arguments : "sum" to get the total sum of the number and "nbr" to get the proportion oh the charged segment of the progressbar. It must be 100% responsive to the size of its html container
