@@ -228,6 +228,6 @@ function show(accurateGames, playerOneScore, playerTwoScore) {
 
 }
 //PROGRAM
-writeHtml();
+gridBoard();
 start();
 
